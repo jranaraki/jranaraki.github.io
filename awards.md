@@ -2,7 +2,7 @@
 title: Awards
 ---
 
-# Awards
+## [About](index.md) | [Publications](publications.md) | [Awards](awards.md) | [Contact](contact.md)
 
 - Mitacs Elevate Fellowship, Mitacs (2019-2021) [[Link](https://www.mitacs.ca/en/programs/elevate/program-details)]
 - Best Paper Award, 32nd IEEE CBMS International Symposium on Computer-Based Medical Systems (2019) [[Link](http://www.cbms2019.org/)]
