@@ -16,8 +16,8 @@ title: Publications
   - Anaraki, J. R., & Samet, S. (2020). Privacy-preserving Feature Selection: A Survey and Proposing a New Set of Protocols. arXiv preprint arXiv:2008.07664 [[arXiv](https://arxiv.org/abs/2008.07664)]
 
 - 2019
-  - Anaraki, J. R., Samet, S., Shehata, M., Aubrey-Bassler, K., Karami, E., Samet, S., Smith, A., Detecting Relative Changes in Circulating Blood Volume using Ultrasound and Simulation, 32nd IEEE CBMS International Symposium on Computer-Based Medical Systems, Cordoba, Spain, 2019 [[Link](https://ieeexplore.ieee.org/document/8787478)]]
-  - Anaraki, J. R., Usefi, H., A Comparative Study of Feature Selection Methods on Genomic Datasets, 32nd IEEE CBMS International Symposium on Computer-Based Medical Systems, Cordoba, Spain, 2019 [[Link](https://ieeexplore.ieee.org/document/8787392)][[Code]()]
+  - Anaraki, J. R., Samet, S., Shehata, M., Aubrey-Bassler, K., Karami, E., Samet, S., Smith, A., Detecting Relative Changes in Circulating Blood Volume using Ultrasound and Simulation, 32nd IEEE CBMS International Symposium on Computer-Based Medical Systems, Cordoba, Spain, 2019 [[Link](https://ieeexplore.ieee.org/document/8787478)]
+  - Anaraki, J. R., Usefi, H., A Comparative Study of Feature Selection Methods on Genomic Datasets, 32nd IEEE CBMS International Symposium on Computer-Based Medical Systems, Cordoba, Spain, 2019 [[Link](https://ieeexplore.ieee.org/document/8787392)]
   - Anaraki, J. R., Usefi, H. (2019). A Feature Selection Based on Perturbation Theory, Expert Systems with Applications, 127(13), (pp. 1-8) [[Link](https://www.sciencedirect.com/science/article/pii/S0957417419301411)][[Code](https://github.com/JRAnaraki/PerturbationFeatureSelection)]
 
 - 2018
