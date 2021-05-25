@@ -2,7 +2,7 @@
 title: Publications
 ---
 
-## [About](index.md) [Publications](publications.md)
+## [About](index.md) | [Publications](publications.md) | [Contact](contact.md)
 
 - 2021
   - Fuller, D., Anaraki, J.R., Simango, B., Rayner, M., Dorani, F., Bozorgi, A., Luan, H., Basset, F. (2021). Predicting Lying, Sitting, Walking and Running Using Apple Watch and Fitbit Data. BMJ Open Sport & Exercise Medicine, 7(1), e001004 [[Link](https://bmjopensem.bmj.com/content/7/1/e001004)][[Code](https://github.com/walkabillylab/jaeger_analysis)]
