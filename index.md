@@ -1,5 +1,7 @@
 ---
+layout: main
 title: About
+permalink: /index.md
 ---
 
 ## [About](index.md) | [Publications](publications.md) | [Awards](awards.md) | [Contact](contact.md)
