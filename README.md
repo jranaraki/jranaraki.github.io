@@ -56,3 +56,12 @@ I received my Bachelor degree from the [Department of Computer Engineering](http
 - 2011
   - Anaraki, J. R., & Eftekhari, M. Improving Fuzzy-Rough Quick Reduct for Feature Selection. In 2011 19th Iranian Conference on Electrical Engineering (pp. 1-6). IEEE [[Link](http://ieeexplore.ieee.org/document/5955425/)][[Code](https://github.com/JRAnaraki/ThresholdFuzzyRoughQuickReduct)]
   - Anaraki, J. R., Nezam Abadi-pour, H. An Improved ACO Based Edge Detection, In 2011 19th Iranian Conference on Electrical Engineering (pp. 2173-2178). IEEE (in Persian) [[Link](https://www.civilica.com/Paper-ICEE19-ICEE19_023=%D8%A8%D9%87%D8%A8%D9%88%D8%AF%DB%8C-%D8%A8%D8%B1%D8%B1%D9%88%D8%B4-%D8%A2%D8%B4%DA%A9%D8%A7%D8%B1%D8%B3%D8%A7%D8%B2%DB%8C-%D9%84%D8%A8%D9%87-%D9%85%D8%A8%D8%AA%D9%86%DB%8C-%D8%A8%D8%B1%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85-%D9%85%D9%88%D8%B1%DA%86%D9%87.html)]
+
+## Awards
+- Mitacs Elevate Fellowship, Mitacs (2019-2021) [[Link](https://www.mitacs.ca/en/programs/elevate/program-details)]
+- Best Paper Award, 32nd IEEE CBMS International Symposium on Computer-Based Medical Systems (2019) [[Link](http://www.cbms2019.org/)]
+- Travel Assistance Award, The Fields Institute For Research In Mathematical Sciences (2019) [[Link](http://www.fields.utoronto.ca/activities/18-19/NP50)]
+- Graduate Research Excellence Award, Memorial University of Newfoundland (2018-2019)
+- Eastern Health Research Grant, The Health Care Foundation (2018-2019) [[Link](https://www.healthcarefoundation.ca/pages/events-and-programs/research/education)]
+- Seed, Bridge and Multidisciplinary Fund, Memorial University of Newfoundland (2018-2019) [[Link](https://www.mun.ca/research/explore/srip/Seedfundterms.php)]
+- SGS Fellowship, Memorial University of Newfoundland (2014-2018) [[Link](https://www.mun.ca/sgs/support_guidelines.pdf)]
