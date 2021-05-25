@@ -2,7 +2,7 @@
 title: Contact
 ---
 
-# Contact
+## [About](index.md) | [Publications](publications.md) | [Contact](contact.md)
 
 Institute of Biomedical Engineering<br />
 University of Toronto<br />
