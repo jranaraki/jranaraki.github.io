@@ -2,7 +2,7 @@
 title: About
 ---
 
-# [About](index.md) # [Publications](publications.md)
+# [About](index.md) [Publications](publications.md)
 
 I am a [Mitacs Elevate](https://www.mitacs.ca/en/programs/elevate) postdoctoral fellow at the [Institute of Biomedical Engineering](https://bme.utoronto.ca/), [University of Toronto](https://www.utoronto.ca/) and [Holland Bloorview Kids Rehabilitation Hospital](https://hollandbloorview.ca/) working with [Dr. Tom Chau](https://ibbme.utoronto.ca/faculty-research/core-faculty/tom-chau/) focusing on brain signal analysis and tool development for kids with severe movement disabilities. I am also working on empirical algorithmics and algorithm portfolios concepts with [Dr. Antonina Kolokolova](http://www.cs.mun.ca/~kol/).
 
