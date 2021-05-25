@@ -16,9 +16,9 @@
 
 # Site Settings
 locale                   : "en-CA"
-title                    : "Javad Rahimipour Anaraki"
-title_separator          : "-"
-name                     : "Javad Rahimipour Anaraki"
+title                    : ""
+title_separator          : ""
+name                     : ""
 description              : ""
 url                      : https://jranaraki.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
