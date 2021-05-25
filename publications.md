@@ -34,7 +34,7 @@ title: Publications
   - Lee, J. H., Anaraki, J. R., Ahn, C. W., & An, J. (2015). Efficient Classification System Based on Fuzzy-Rough Feature Selection and Multitree Genetic Programming for Intension Pattern Recognition Using Brain Signal. Expert Systems with Applications, 42(3), (pp. 1644-1651) [[Link](https://www.sciencedirect.com/science/article/pii/S0957417414006095)]
 
 - 2014
-  - Anaraki, J. R., Ahn, C. W., Fuzzy-Rough Sample Selection, 4th International Workshop on Computer Science and Engineering (WCSE), Dubai, (pp. 22-29), 2014 [[Link](Fuzzy-Rough Sample Selection.pdf)]
+  - Anaraki, J. R., Ahn, C. W., Fuzzy-Rough Sample Selection, 4th International Workshop on Computer Science and Engineering (WCSE), Dubai, (pp. 22-29), 2014 [[Link](/Fuzzy-Rough Sample Selection.pdf)]
 
 - 2013
   - Anaraki, J. R., & Eftekhari, M., Rough Set Based Feature Selection: A Review. In Information and Knowledge Technology (IKT), 2013 5th Conference on (pp. 301-306). IEEE [[Link](http://ieeexplore.ieee.org/document/6620083/)]
