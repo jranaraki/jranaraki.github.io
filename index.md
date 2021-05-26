@@ -2,7 +2,7 @@
 title: About
 ---
 
-## [About](index.md) | [Publications](publications.md) | [Awards](awards.md) | [Contact](contact.md)
+## [About](index.md) | [Publications](publications.md) | [Projects](projects.md) | [Awards](awards.md) | [Contact](contact.md)
 
 ![Javad Rahimipour Anaraki](Me.jpg)
 
