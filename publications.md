@@ -5,7 +5,7 @@ title: Publications
 ## [About](index.md) | [Publications](publications.md) | [Awards](awards.md) | [Contact](contact.md)
 
 - 2021
-  - Fuller, D., Anaraki, J. R., Simango, B., Rayner, M., Dorani, F., Bozorgi, A., Luan, H., Basset, F. (2021). Predicting Lying, Sitting, Walking and Running Using Apple Watch and Fitbit Data. BMJ Open Sport & Exercise Medicine, 7(1), e001004 [[Link](https://bmjopensem.bmj.com/content/7/1/e001004)][[Code](https://github.com/walkabillylab/jaeger_analysis)]
+  - Fuller, D., Anaraki, J. R., Simango, B., Rayner, M., Dorani, F., Bozorgi, A., Luan, H., Basset, F. (2021). Predicting Lying, Sitting, Walking and Running Using Apple Watch and Fitbit Data. BMJ Open Sport & Exercise Medicine, 7(1), e001004 [[Link](https://bmjopensem.bmj.com/content/7/1/e001004)][[Code](https://github.com/walkabillylab/jaeger_analysis)][[Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZS2Z2J)]
   - Brondeel, R., Kestens, Y., Anaraki, J. R., Stanley, K., Thierry, B., Fuller, D. (2021). Converting Raw Accelerometer Data to Activity Counts Using Open Source Code in MATLAB, Python, and R – A Comparison to Actilife Activity Counts. Journal for the Measurement of Physical Behaviour [[Link]()][[Code](https://github.com/walkabillylab/activityCounts)]
   - Anaraki, J. R., Rauh, C. A., Leung, J., & Chau, T. (2021). EmoconLite: Bridging the Gap Between Emotiv and Play for Children With Severe Disabilities. arXiv preprint arXiv:2101.02768 [[arXiv](https://arxiv.org/abs/2101.02768)][[App](https://www.hollandbloorview.ca/emocon)]
 
