@@ -21,3 +21,5 @@ title: Projects
 - 2019
   - [NCBIdataPrep](https://github.com/jranaraki/NCBIdataPrep)
     - An R code to convert NCBI datasets downloaded from [GEO DataSet Browser](https://www.ncbi.nlm.nih.gov/sites/GDSbrowser) to CSV files
+  - [LocationToTimezone](https://github.com/jranaraki/LocationToTimezone)
+    - An R code to convert location information (i.e. Lat and Lon) to timezone
