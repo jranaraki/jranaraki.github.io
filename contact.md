@@ -16,4 +16,4 @@ Holland Bloorview Kids Rehabilitation Hospital<br />
 Toronto, Ontario M4G 1R8 Canada [[Map](https://share.here.com/p/s-Yz1idWlsZGluZztsYXQ9NDMuNzE4NDE7bG9uPS03OS4zNzI5MjtuPTE1MCtLaWxnb3VyK1JkO25sYXQ9NDMuNzE3ODM7bmxvbj0tNzkuMzcyNjk7aD0zZTBhNTI)]<br />
 jrahimipour [AT] hollandbloorview [DOT] ca<br />
 
-[[LinkedIn](https://www.linkedin.com/in/jranaraki)] [[Twitter](http://twitter.com/JRAnaraki)] [[Google Scholar](https://scholar.google.ca/citations?user=7m2iN10AAAAJ&hl=en)] [[Github](http://github.com/JRAnaraki)]
+[[LinkedIn](https://www.linkedin.com/in/jranaraki)] [[Twitter](http://twitter.com/jranaraki)] [[Google Scholar](https://scholar.google.ca/citations?user=7m2iN10AAAAJ&hl=en)] [[Github](http://github.com/jranaraki)]
