@@ -1,5 +1,5 @@
 ---
-title: About
+title: Home
 ---
 
 ## [About](index.md) | [Publications](publications.md) | [Projects](projects.md) | [Awards](awards.md) | [Contact](contact.md)
