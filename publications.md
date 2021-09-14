@@ -18,7 +18,7 @@ title: Publications
 - 2019
   - Anaraki, J. R., Samet, S., Shehata, M., Aubrey-Bassler, K., Karami, E., Samet, S., Smith, A., Detecting Relative Changes in Circulating Blood Volume using Ultrasound and Simulation, 32nd IEEE CBMS International Symposium on Computer-Based Medical Systems, Cordoba, Spain, 2019 [[Link](https://ieeexplore.ieee.org/document/8787478)]
   - Anaraki, J. R., Usefi, H., A Comparative Study of Feature Selection Methods on Genomic Datasets, 32nd IEEE CBMS International Symposium on Computer-Based Medical Systems, Cordoba, Spain, 2019 [[Link](https://ieeexplore.ieee.org/document/8787392)]
-  - Anaraki, J. R., Usefi, H. (2019). A Feature Selection Based on Perturbation Theory, Expert Systems with Applications, 127(13), (pp. 1-8) [[Link](https://en.civilica.com/doc/153596/)][[Code](https://github.com/JRAnaraki/PerturbationFeatureSelection)]
+  - Anaraki, J. R., Usefi, H. (2019). A Feature Selection Based on Perturbation Theory, Expert Systems with Applications, 127(13), (pp. 1-8) [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417419301411)][[Code](https://github.com/JRAnaraki/PerturbationFeatureSelection)]
 
 - 2018
   - Anaraki, J. R., Samet, S., Eftekhari, M., & Ahn, C. W. (2018). A Fuzzy-Rough based Binary Shuffled Frog Leaping Algorithm for Feature Selection. arXiv preprint arXiv:1808.00068 [[Link](https://arxiv.org/abs/1808.00068)]
