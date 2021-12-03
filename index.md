@@ -17,4 +17,4 @@ I received my Bachelor's degree from the [Department of Computer Engineering](ht
 
 ## Research interests
 - Feature selection
-- Classification
+- Fuzzy-rough sets
