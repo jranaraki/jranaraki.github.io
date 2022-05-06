@@ -16,7 +16,6 @@ I received my Bachelor's degree from the [Department of Computer Engineering](ht
 
 
 ## Research interests
-- Forecasting
 - Feature selection
 - Fuzzy-rough sets
-
+- Forecasting
