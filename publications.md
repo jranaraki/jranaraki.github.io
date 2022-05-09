@@ -5,7 +5,7 @@ title: Publications
 ## [About](index.md) | [News](news.md) | [Publications](publications.md) | [Projects](projects.md) | [Awards](awards.md) | [Contact](contact.md)
 
 - 2022
-  - Khataeipour, S. J., Anaraki, J. R., Bozorgi, A., Rayner, M., Basset, F., Fuller, D. (2022). Predicting Lying, Sitting, and Walking at Different Intensities Using Smartphone Accelerometers at Three Different Wear Locations; Hands, Pants Pocket, Backpack. BMJ Open Sport & Exercise Medicine [link]
+  - Khataeipour, S. J., Anaraki, J. R., Bozorgi, A., Rayner, M., Basset, F., Fuller, D. (2022). Predicting Lying, Sitting, and Walking at Different Intensities Using Smartphone Accelerometers at Three Different Wear Locations; Hands, Pants Pocket, Backpack. BMJ Open Sport & Exercise Medicine [[Link](https://bmjopensem.bmj.com/content/8/2/e001242.full?s=09)]
 
 - 2021
   - Fuller, D., Anaraki, J. R., Simango, B., Rayner, M., Dorani, F., Bozorgi, A., Luan, H., Basset, F. (2021). Predicting Lying, Sitting, Walking and Running Using Apple Watch and Fitbit Data. BMJ Open Sport & Exercise Medicine, 7(1), e001004 [[Link](https://bmjopensem.bmj.com/content/7/1/e001004)][[Code](https://github.com/walkabillylab/jaeger_analysis)][[Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZS2Z2J)]
