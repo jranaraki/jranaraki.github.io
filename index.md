@@ -2,7 +2,7 @@
 title: Home
 ---
 
-## [About](index.md) | [Publications](publications.md) | [Projects](projects.md) | [Awards](awards.md) | [Contact](contact.md)
+## [About](index.md) | [News](news.md) | [Publications](publications.md) | [Projects](projects.md) | [Awards](awards.md) | [Contact](contact.md)
 
 <img src="Me.jpg" alt="Javad Rahimipour Anaraki" width="200"/>
 
