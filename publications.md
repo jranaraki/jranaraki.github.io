@@ -2,7 +2,7 @@
 title: Publications
 ---
 
-## [About](index.md) | [Publications](publications.md) | [Projects](projects.md) | [Awards](awards.md) | [Contact](contact.md)
+## [About](index.md) | [News](news.md) | [Publications](publications.md) | [Projects](projects.md) | [Awards](awards.md) | [Contact](contact.md)
 
 - 2022
   - Khataeipour, S. J., Anaraki, J. R., Bozorgi, A., Rayner, M., Basset, F., Fuller, D. (2022). Predicting Lying, Sitting, and Walking at Different Intensities Using Smartphone Accelerometers at Three Different Wear Locations; Hands, Pants Pocket, Backpack. BMJ Open Sport & Exercise Medicine [link]
