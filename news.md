@@ -5,7 +5,7 @@ title: News
 ## [About](index.md) | [News](news.md) | [Publications](publications.md) | [Projects](projects.md) | [Awards](awards.md) | [Contact](contact.md)
 
 - 2022.09
-  - Our paper got accepted in [NeurIPS2022](https://neurips.cc/)
+  - Our paper [C2FAR: Coarse-to-Fine Autoregressive Networks for Precise Probabilistic Forecasting](https://nips.cc/Conferences/2022/Schedule?showEvent=53883) got accepted in [NeurIPS2022](https://neurips.cc/)
 - 2022.09
   - The Globe and Mail report, [Brain-computer interface at Toronto children’s hospital tests the potential for mind melds with machines](https://www.theglobeandmail.com/canada/article-brain-computer-interface-at-toronto-childrens-hospital-tests-the/), on [EmoconLite](https://jranaraki.github.io/projects.html) project
 - 2022.06
