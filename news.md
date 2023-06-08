@@ -4,6 +4,8 @@ title: News
 
 ## [About](index.md) | [News](news.md) | [Publications](publications.md) | [Projects](projects.md) | [Awards](awards.md) | [Contact](contact.md)
 
+- 2023.05
+  - Toronto Star report, [How a Toronto hospital is using a brain-computer interface to help kids with disabilities play and paint — with their minds](https://www.thestar.com/news/canada/2023/05/31/these-kids-make-computers-work-with-their-minds-the-future-is-completely-wide-open.html) on [EmoconLite](https://jranaraki.github.io/projects.html) project
 - 2022.09
   - Our paper [C2FAR: Coarse-to-Fine Autoregressive Networks for Precise Probabilistic Forecasting](https://nips.cc/Conferences/2022/Schedule?showEvent=53883) got accepted in [NeurIPS2022](https://neurips.cc/)
 - 2022.09
