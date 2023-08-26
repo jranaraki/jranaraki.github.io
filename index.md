@@ -6,7 +6,7 @@ title: Home
 
 <img src="Me.jpg" alt="Javad Rahimipour Anaraki" width="200"/>
 
-I am a senior ML researcher at [Huawei Technologies Canada](https://www.huawei.com/ca/), working on designing and improving timeseries forecasting methods. 
+I am a senior ML researcher in the IaaS team at [Huawei Technologies Canada](https://www.huawei.com/ca/), working on designing and improving timeseries forecasting and prediction-based auto-scaler methods for serverless environments.
 
 Previously, I was a [Mitacs Elevate](https://www.mitacs.ca/en/programs/elevate) postdoctoral fellow at the [Institute of Biomedical Engineering](https://bme.utoronto.ca/), [University of Toronto](https://www.utoronto.ca/) and [Holland Bloorview Kids Rehabilitation Hospital](https://hollandbloorview.ca/), working with [Tom Chau](https://bme.utoronto.ca/faculty-research/core-faculty/tom-chau/) on ML tools to translate EEG signals into actions helping kids with severe movement disabilities.
 
