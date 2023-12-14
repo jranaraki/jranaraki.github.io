@@ -18,6 +18,6 @@ I received my Bachelor's degree in Computer Engineering from [Shahid Ashrafi Esf
 
 
 ## Research interests
-- Forecasting
 - Feature selection
+- Forecasting
 - Fuzzy-rough sets
