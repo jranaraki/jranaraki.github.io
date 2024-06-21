@@ -4,6 +4,9 @@ title: Publications
 
 ## [About](index.md) | [News](news.md) | [Publications](publications.md) | [Projects](projects.md) | [Awards](awards.md) | [Contact](contact.md)
 
+- 2024
+  - Anaraki, J. R., Kolokolova, A., Chau, T. (2024). Personalized Classifier Selection for EEG-based Brain-Computer Interfaces, Computers, 13(6) [[Link](https://www.mdpi.com/journal/computers/special_issues/2Y2F08Y067#published)]
+ 
 - 2022
   - Bergsma, S. A., Zeyl, T., Anaraki, J. R., Guo, L. (2022). C2FAR: Coarse-to-Fine Autoregressive Networks for Precise Probabilistic Forecasting.  In Annual Conference on Neural Information Processing Systems [[Link](https://nips.cc/Conferences/2022/Schedule?showEvent=53883)]
   - Khataeipour, S. J., Anaraki, J. R., Bozorgi, A., Rayner, M., Basset, F., Fuller, D. (2022). Predicting Lying, Sitting, and Walking at Different Intensities Using Smartphone Accelerometers at Three Different Wear Locations; Hands, Pants Pocket, Backpack. BMJ Open Sport & Exercise Medicine [[Link](https://bmjopensem.bmj.com/content/8/2/e001242.full?s=09)]
