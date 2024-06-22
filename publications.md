@@ -5,7 +5,7 @@ title: Publications
 ## [About](index.md) | [News](news.md) | [Publications](publications.md) | [Projects](projects.md) | [Awards](awards.md) | [Contact](contact.md)
 
 - 2024
-  - Anaraki, J. R., Kolokolova, A., Chau, T. (2024). Personalized Classifier Selection for EEG-based Brain-Computer Interfaces, Computers, 13(6):158 [[Link](https://www.mdpi.com/2073-431X/13/7/158)]
+  - Anaraki, J. R., Kolokolova, A., Chau, T. (2024). Personalized Classifier Selection for EEG-based Brain-Computer Interfaces, Computers, 13(7), 158 [[Link](https://www.mdpi.com/2073-431X/13/7/158)]
  
 - 2022
   - Bergsma, S. A., Zeyl, T., Anaraki, J. R., Guo, L. (2022). C2FAR: Coarse-to-Fine Autoregressive Networks for Precise Probabilistic Forecasting.  In Annual Conference on Neural Information Processing Systems [[Link](https://nips.cc/Conferences/2022/Schedule?showEvent=53883)]
