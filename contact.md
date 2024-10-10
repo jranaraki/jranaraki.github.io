@@ -9,4 +9,4 @@ Memorial University of Newfoundland<br />
 St. John's, NL, A1B 3X5 Canada<br />
 Email: jra066 [AT] mun [DOT] ca<br />
 
-[[LinkedIn](https://www.linkedin.com/in/jranaraki)] [[Mastodon](https://fediscience.org/@jranaraki)] [[Google Scholar](https://scholar.google.ca/citations?user=7m2iN10AAAAJ&hl=en)] [[Github](http://github.com/jranaraki)]
+[[LinkedIn](https://www.linkedin.com/in/jranaraki)] [[Google Scholar](https://scholar.google.ca/citations?user=7m2iN10AAAAJ&hl=en)] [[Github](http://github.com/jranaraki)]
