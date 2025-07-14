@@ -4,6 +4,8 @@ title: News
 
 ## [About](index.md) | [News](news.md) | [Publications](publications.md) | [Projects](projects.md) | [Awards](awards.md) | [Contact](contact.md)
 
+- 2025.06
+  - Presented our paper [BOOST: Batch Ordering for Training Deep Forecasting Models](https://ieeecompsac.computer.org/2025/preliminary-program/) at [IEEE COMPSAC 2025](https://ieeecompsac.computer.org/2025/)
 - 2024.06
   - Our paper [Personalized Classifier Selection for EEG-Based BCIs](https://www.mdpi.com/2073-431X/13/7/158) got accepted in [Computers](https://www.mdpi.com/journal/computers)
 - 2023.05
