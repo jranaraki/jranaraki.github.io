@@ -4,6 +4,8 @@ title: News
 
 ## [About](index.md) | [News](news.md) | [Publications](publications.md) | [Projects](projects.md) | [Awards](awards.md) | [Contact](contact.md)
 
+- 2025.08
+  - Attended [KDD 2025](https://kdd2025.kdd.org/)
 - 2025.06
   - Presented our paper [BOOST: Batch Ordering for Training Deep Forecasting Models](https://ieeecompsac.computer.org/2025/preliminary-program/) at [IEEE COMPSAC 2025](https://ieeecompsac.computer.org/2025/)
 - 2024.06
