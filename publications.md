@@ -6,7 +6,7 @@ title: Publications
 
 - 2025
   - Anaraki, J. R., Guo, L. (2025). BOOST: Batch Ordering for Training Deep Forecasting Models. In 2025 
-IEEE 49th Annual Computers, Software, and Applications Conference (COMPSAC) IEEE [[Link](https://ieeecompsac.computer.org/2025/preliminary-program/)]
+IEEE 49th Annual Computers, Software, and Applications Conference (COMPSAC) IEEE [[Link](https://ieeexplore.ieee.org/document/11126688)]
 
 - 2024
   - Anaraki, J. R., Kolokolova, A., Chau, T. (2024). Personalized Classifier Selection for EEG-based Brain-Computer Interfaces, Computers, 13(7), 158 [[Link](https://www.mdpi.com/2073-431X/13/7/158)]
