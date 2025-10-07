@@ -6,7 +6,7 @@ title: Home
 
 <img src="Me.jpg" alt="Javad Rahimipour Anaraki" width="200"/>
 
-I am a senior ML researcher in the IaaS team at [Huawei Technologies Canada](https://www.huaweicloud.com/intl/en-us/), working on designing and improving demand forecasting and prediction-based auto-scaler methods, and agentic AI design and implementation for serverless environments.
+I am a senior ML researcher in the IaaS team at [Huawei Technologies Canada](https://www.huaweicloud.com/intl/en-us/) with over seven years of experience delving into theoretical and practical applications of ML. My expertise spans various domains, including designing and improving demand forecasting, prediction-based auto-scaler methods, optimization, system simulation and evaluation, and developing and implementing AI agents for managing serverless environments.
 
 Previously, I was a [Mitacs Elevate](https://www.mitacs.ca/en/programs/elevate) postdoctoral fellow at the [Institute of Biomedical Engineering](https://bme.utoronto.ca/), [University of Toronto](https://www.utoronto.ca/) and [Holland Bloorview Kids Rehabilitation Hospital](https://hollandbloorview.ca/), working with [Tom Chau](https://bme.utoronto.ca/faculty-research/core-faculty/tom-chau/) on ML tools to translate EEG signals into actions helping kids with severe movement disabilities.
 
@@ -14,5 +14,6 @@ I received my Ph.D. in Computer Science from [Memorial University of Newfoundlan
 
 ## Research interests
 - Demand forecasting
+- Optimization
+- Simulation
 - Feature selection
-- Fuzzy-rough sets
