@@ -4,6 +4,8 @@ title: News
 
 ## [About](index.md) | [News](news.md) | [Publications](publications.md) | [Projects](projects.md) | [Awards](awards.md) | [Contact](contact.md)
 
+- 2025.12
+  - Received the Technical Innovation Award
 - 2025.09
   - Attended [2025 Toronto vLLM Meetup](https://luma.com/e80e0ymm)
 - 2025.08
