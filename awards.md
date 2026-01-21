@@ -4,6 +4,7 @@ title: Awards
 
 ## [About](index.md) | [News](news.md) | [Publications](publications.md) | [Projects](projects.md) | [Awards](awards.md) | [Contact](contact.md)
 
+- Technical Innovation Award, Huawei Canada (2025)
 - Mitacs Elevate Fellowship, Mitacs (2019-2021) [[Link](https://www.mitacs.ca/en/programs/elevate/program-details)]
 - Best Paper Award, 32nd IEEE CBMS International Symposium on Computer-Based Medical Systems (2019) [[Link](https://ieeexplore.ieee.org/xpl/conhome/8777225/proceeding)]
 - Travel Assistance Award, The Fields Institute For Research In Mathematical Sciences (2019) [[Link](http://www.fields.utoronto.ca/activities/18-19/NP50)]
