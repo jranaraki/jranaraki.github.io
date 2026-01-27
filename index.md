@@ -6,7 +6,7 @@ title: Home
 
 <img src="Me.jpg" alt="Javad Rahimipour Anaraki" width="200"/>
 
-I am a senior ML researcher in the IaaS team at [Huawei Technologies Canada](https://www.huaweicloud.com/intl/en-us/) with over seven years of experience delving into theoretical and practical applications of ML. With experience building scalable ML systems, LLM inference frameworks, and time-series forecasting pipelines. Proven track record in optimizing models, deploying real-world solutions, and mentoring junior engineers and students across bachelor’s to PhD levels.
+I am a senior ML researcher in the IaaS team at [Huawei Technologies Canada](https://www.huaweicloud.com/intl/en-us/) with over seven years of experience delving into theoretical and practical applications of ML. I have built scalable ML systems, LLM inference frameworks, and time-series forecasting pipelines, with a proven track record in optimizing models, deploying real-world solutions, and mentoring junior engineers.
 
 Previously, I was a [Mitacs Elevate](https://www.mitacs.ca/en/programs/elevate) postdoctoral fellow at the [Institute of Biomedical Engineering](https://bme.utoronto.ca/), [University of Toronto](https://www.utoronto.ca/) and [Holland Bloorview Kids Rehabilitation Hospital](https://hollandbloorview.ca/), working with [Tom Chau](https://bme.utoronto.ca/faculty-research/core-faculty/tom-chau/) on ML tools to translate EEG signals into actions helping kids with severe movement disabilities.
 
