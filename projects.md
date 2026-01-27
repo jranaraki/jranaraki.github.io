@@ -6,7 +6,7 @@ title: Projects
 
 - 2021
   - EmoconPro
-    - This version of Emocon is designed specifically for the therapeutic recreation program at [Holland Bloorview Kids Rehabilitation Hospital](http://hollandbloorview.ca), which includes features such as connecting to an external Bluetooth switch, a relay box and [Sphero Mini](https://sphero.com/products/sphero-mini)
+    - This version of Emocon is designed specifically for the therapeutic recreation program at [Holland Bloorview Kids Rehabilitation Hospital](http://hollandbloorview.ca), which includes features such as connecting to an external Bluetooth switch, a relay box and [Sphero Mini](https://sphero.com/products/sphero-mini). This app provided the option to connect to Emotive EPOC+, NextMind, and Muse headsets and headbands, respectively, to retrain the base classification model through a quick 2-minute training, customized to the user's data.
    
       <img height="370" alt="EmoconPro" src="https://github.com/user-attachments/assets/e9442272-0f15-407a-be33-fb0704b999b9" />
 
