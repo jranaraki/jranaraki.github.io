@@ -7,8 +7,7 @@ title: Projects
 - 2026
   - [vLLM-Tuner](https://github.com/jranaraki/vllm-tuner)
     - An intelligent tuner for vLLM that automatically monitors GPU metrics, uses Bayesian optimization to tune parameters to maximize throughput while minimizing latency and balancing memory, respecting user-provided constraints.
-      <img height="370" alt="vLLM-Tuner" src="https://github.com/jranaraki/vllm-tuner/blob/main/docs/report_screenshot.png" /> 
-
+      <img height="370" alt="vLLM-Tuner" src="https://github.com/jranaraki/vllm-tuner/blob/main/docs/report_screenshot.png" />
 - 2021
   - EmoconPro
     - This version of Emocon is designed specifically for the therapeutic recreation program at [Holland Bloorview Kids Rehabilitation Hospital](http://hollandbloorview.ca), which includes features such as connecting to an external Bluetooth switch, a relay box and [Sphero Mini](https://sphero.com/products/sphero-mini). This app provided the option to connect to Emotive EPOC+, NextMind, and Muse headsets and headbands, respectively, to retrain the base classification model through a quick 2-minute training, customized to the user's data.
