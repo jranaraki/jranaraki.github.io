@@ -7,7 +7,7 @@ title: Projects
 - 2026
   - [vLLM-Tuner](https://github.com/jranaraki/vllm-tuner)
     - An intelligent tuner for vLLM that automatically monitors GPU metrics, uses Bayesian optimization to tune parameters to maximize throughput while minimizing latency and balancing memory, respecting user-provided constraints.
-      <img height="370" alt="vLLM-Tuner" src="https://github.com/user-attachments/assets/d73fa34d-dc70-4117-89c1-22bcd0843ce6" />
+      <img width="470" alt="vLLM-Tuner" src="https://github.com/user-attachments/assets/d73fa34d-dc70-4117-89c1-22bcd0843ce6" />
 
 - 2021
   - EmoconPro
