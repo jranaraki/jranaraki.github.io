@@ -5,6 +5,10 @@ title: Projects
 ## [About](index.md) | [News](news.md) | [Publications](publications.md) | [Projects](projects.md) | [Awards](awards.md) | [Contact](contact.md)
 
 - 2026
+  - [vLLM-Fit](github.com/jranaraki/vllm-fit)
+    - A CLI tool designed to simply recommend (conservative), and/or profile (to maximize resource utilization) vLLM engine arguments for any HuggingFace model on the user's current hardware.
+      <img width="470" alt="vLLM-Fit" src="https://github.com/user-attachments/assets/e1337e11-2d74-478f-8bb4-cd9322acd07a" />
+      
   - [vLLM-Tuner](https://github.com/jranaraki/vllm-tuner)
     - An intelligent tuner for vLLM that automatically monitors GPU metrics, uses Bayesian optimization to tune parameters to maximize throughput while minimizing latency and balancing memory, respecting user-provided constraints.
       <img width="470" alt="vLLM-Tuner" src="https://github.com/user-attachments/assets/d73fa34d-dc70-4117-89c1-22bcd0843ce6" />
