@@ -5,6 +5,9 @@ title: Projects
 ## [About](index.md) | [News](news.md) | [Publications](publications.md) | [Projects](projects.md) | [Awards](awards.md) | [Contact](contact.md)
 
 - 2026
+  - [MiniGram](https://github.com/jranaraki/minigram)
+    - A privacy-preserving Android app that performs real-time grammar correction across all apps using on-device LLM inference via ExecuTorch.
+      
   - [vLLM-Fit](github.com/jranaraki/vllm-fit)
     - A CLI tool designed to simply recommend (conservative), and/or profile (to maximize resource utilization) vLLM engine arguments for any HuggingFace model on the user's current hardware.
       <img width="470" alt="vLLM-Fit" src="https://github.com/user-attachments/assets/e1337e11-2d74-478f-8bb4-cd9322acd07a" />
