@@ -8,7 +8,7 @@ title: Home
 
 I am a Senior Manager at [PwC](https://www.pwc.com/ca/en/) with the AI Foundry team, where I work at the cross-section of data, cloud, and AI systems, focusing on building multi-agent frameworks and deploying LLM solutions.
 
-Previously, I was a senior ML researcher on the IaaS team at [Huawei Technologies Canada](https://www.huaweicloud.com/intl/en-us/) where I built scalable ML systems, LLM inference frameworks, and time-series forecasting pipelines, with a proven track record in optimizing models, deploying real-world solutions, and mentoring junior engineers.
+Previously, I was a Senior ML Researcher on the IaaS team at [Huawei Technologies Canada](https://www.huaweicloud.com/intl/en-us/) where I built scalable ML systems, LLM inference frameworks, and time-series forecasting pipelines, with a proven track record in optimizing models, deploying real-world solutions, and mentoring junior engineers.
 
 Formerly, I was a [Mitacs Elevate](https://www.mitacs.ca/en/programs/elevate) postdoctoral fellow at the [Institute of Biomedical Engineering](https://bme.utoronto.ca/), [University of Toronto](https://www.utoronto.ca/) and [Holland Bloorview Kids Rehabilitation Hospital](https://hollandbloorview.ca/), working with [Tom Chau](https://bme.utoronto.ca/faculty-research/core-faculty/tom-chau/) on ML tools to translate EEG signals into actions, helping kids with severe movement disabilities.
 
