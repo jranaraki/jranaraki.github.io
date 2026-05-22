@@ -5,7 +5,7 @@ title: News
 ## [About](index.md) | [News](news.md) | [Publications](publications.md) | [Projects](projects.md) | [Awards](awards.md) | [Contact](contact.md)
 
 - 2026.04
-  - Joined PwC as a Senior Manager with the AI Foundry team
+  - Joined [PwC](https://www.pwc.com/ca/en/) as a Senior Manager with the AI Foundry team
 - 2025.12
   - Received Technical Innovation Award from Huawei Canada
 - 2025.09
